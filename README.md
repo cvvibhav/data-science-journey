@@ -8,3 +8,4 @@ My personal journey : Data Science
 * **Day 3:** Learned Python operators (math, logic) and my first data structure: Lists! - [See the code in `phase_1_python_basics/`](./phase_1_python_basics/Day_03_Operators_and_Lists.ipynb)
 * **Day 4:** Learned to modify lists (`.append()`, `.pop()`) and iterate with 'for' loops. - [See the code in `phase_1_python_basics/`](./phase_1_python_basics/Day_04_Loops_and_List_Methods.ipynb)
 * **Day 5:** Mastered dictionaries, the most important Python data structure! - [See the code in `phase_1_python_basics/`](./phase_1_python_basics/Day_05_Dictionaries.ipynb)
+* **Day 6:** Learned to make decisions with `if/else` and write reusable code with `def`. - [See the code in `phase_1_python_basics/`](./phase_1_python_basics/Day_06_Conditionals_and_Functions.ipynb)
