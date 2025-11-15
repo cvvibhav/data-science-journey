@@ -12,3 +12,4 @@ My personal journey : Data Science
 * **Day 7:** Built my first Python project! A Contact Book that combines lists, dicts, loops, and functions. - [See the code in `phase_1_python_basics/`](./phase_1_python_basics/Day_07_Mini_Project_Contact_Book.ipynb)
 * **Day 8:** Started the "Big 3" libraries with NumPy! Learned about vectorization (fast math) and `ndarrays`. - [See the code in `phase_2_data_libraries/`](./phase_2_data_libraries/Day_08_Numpy_Basics.ipynb)
 * **Day 9:** Mastered NumPy 2D arrays (matrices)! Practiced indexing `[row, col]` and advanced slicing `[:, 1]`. - [See the code in `phase_2_data_libraries/`](./phase_2_data_libraries/Day_09_Numpy_2D_Arrays_and_Slicing.ipynb)
+* **Day 10:** Finished NumPy! Mastered boolean indexing (filtering with `data[data > 10]`) and `np.where()`. - [See the code in `phase_2_data_libraries/`](./phase_2_data_libraries/Day_10_Numpy_Boolean_Indexing.ipynb)
