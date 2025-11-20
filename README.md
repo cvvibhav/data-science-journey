@@ -18,3 +18,4 @@ My personal journey : Data Science
 * **Day 13:** Learned to modify DataFrames! Created new columns, used `df.drop()`, and handled missing data with `df.isnull().sum()`, `dropna()`, and `fillna()`. - [See the code in `phase_2_data_libraries/`](./phase_2_data_libraries/Day_13_Pandas_Modifying_DataFrames.ipynb)
 * **Day 14:** Learned data aggregation! Used `.describe()`, `.value_counts()`, and the powerful `df.groupby()` method. - [See the code in `phase_2_data_libraries/`](./phase_2_data_libraries/Day_14_Pandas_Aggregation_and_Groupby.ipynb)
 * **Day 15:** Finished Pandas! Learned to combine datasets with `pd.merge()` (SQL-like joins) and `pd.concat()`. - [See the code in `phase_2_data_libraries/`](./phase_2_data_libraries/Day_15_Pandas_Merging_and_Joining.ipynb)
+* **Day 16:** Started Phase 3: Visualization! Created my first line charts with Matplotlib. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_16_Matplotlib_Basics.ipynb)
