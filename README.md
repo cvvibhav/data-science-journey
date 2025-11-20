@@ -20,3 +20,4 @@ My personal journey : Data Science
 * **Day 15:** Finished Pandas! Learned to combine datasets with `pd.merge()` (SQL-like joins) and `pd.concat()`. - [See the code in `phase_2_data_libraries/`](./phase_2_data_libraries/Day_15_Pandas_Merging_and_Joining.ipynb)
 * **Day 16:** Started Phase 3: Visualization! Created my first line charts with Matplotlib. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_16_Matplotlib_Basics.ipynb)
 * **Day 17:** Learned the difference between Bar Charts (categories) and Histograms (distribution). - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_17_Bar_and_Histograms.ipynb)
+* **Day 18:** Learned to plot directly from Pandas! Used `df.plot(kind='scatter')` and combined `groupby()` with `df.plot(kind='bar')`. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_18_Pandas_Plotting.ipynb)
