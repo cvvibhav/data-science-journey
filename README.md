@@ -24,7 +24,7 @@ My personal journey : Data Science
 * **Day 19:** Upgraded to Seaborn! Created Scatterplots with `hue` groups, linear regression models (`lmplot`), and statistical Boxplots. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_19_Seaborn_Basics.ipynb)
 *  **Day 20:**  Advanced Seaborn, Analogies & Styling with KDE , Heatmap and Contexts . - [See the code in 'phase_3_data_visualization/'](./phase_3_data_visualization/Day_20_Seaborn_Advanced.ipynb)
 *  **Day 21 , 22 & 23:** Beginner Phase - Capstone Project  Missing value counts and percentages calculated . - [See the code in 'phase_beginner_capstone_project/'](./phase_beginner_capstone_project/Titanic_Analysis.ipynb.ipynb)
-##  Executive Summary: Titanic Analysis
+
 
 ## Executive Summary: Titanic Analysis 
 
