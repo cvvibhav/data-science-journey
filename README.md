@@ -23,4 +23,15 @@ My personal journey : Data Science
 * **Day 18:** Learned to plot directly from Pandas! Used `df.plot(kind='scatter')` and combined `groupby()` with `df.plot(kind='bar')`. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_18_Pandas_Plotting.ipynb)
 * **Day 19:** Upgraded to Seaborn! Created Scatterplots with `hue` groups, linear regression models (`lmplot`), and statistical Boxplots. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_19_Seaborn_Basics.ipynb)
 *  **Day 20:**  Advanced Seaborn, Analogies & Styling with KDE , Heatmap and Contexts . - [See the code in 'phase_3_data_visualization/'](./phase_3_data_visualization/Day_20_Seaborn_Advanced.ipynb)
-*  **Day 21 , 22:** Beginner Phase - Capstone Project  Missing value counts and percentages calculated . - [See the code in 'phase_beginner_capstone_project/'](./phase_beginner_capstone_project/Titanic_Analysis.ipynb.ipynb)
+*  **Day 21 , 22 & 23:** Beginner Phase - Capstone Project  Missing value counts and percentages calculated . - [See the code in 'phase_beginner_capstone_project/'](./phase_beginner_capstone_project/Titanic_Analysis.ipynb.ipynb)
+##  Executive Summary: Titanic Analysis
+
+## Executive Summary: Titanic Analysis 
+
+* **Overall:** Most passengers [approx 550 Died].
+* **Gender:** [Female] had a much higher chance of survival.
+* **Class:** [1st] Class passengers were more likely to survive, indicating a wealth gap.
+* **Age:** Babies and young children had a [Higher] survival rate than adults.
+* **Conclusion:** The strongest predictors of survival were **Female** and **1st Class**. The "Women and Children First" protocol was clearly followed, but money also played a major role.
+
+* **Week 3: The Capstone & Visualization:** Mastered Data Visualization with Seaborn (Heatmaps, KDE, Boxplots). Completed the **Phase 1 Capstone (Titanic)**: performed full data cleaning (imputation) and EDA to identify survival drivers. **PHASE 1 COMPLETE.** (Days 15-23)
