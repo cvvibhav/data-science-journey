@@ -22,5 +22,5 @@ My personal journey : Data Science
 * **Day 17:** Learned the difference between Bar Charts (categories) and Histograms (distribution). - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_17_Bar_and_Histograms.ipynb)
 * **Day 18:** Learned to plot directly from Pandas! Used `df.plot(kind='scatter')` and combined `groupby()` with `df.plot(kind='bar')`. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_18_Pandas_Plotting.ipynb)
 * **Day 19:** Upgraded to Seaborn! Created Scatterplots with `hue` groups, linear regression models (`lmplot`), and statistical Boxplots. - [See the code in `phase_3_data_visualization/`](./phase_3_data_visualization/Day_19_Seaborn_Basics.ipynb)
-*  **Day 20:** Beginner Phase - Capstone Project  Missing value counts and percentages calculated . - [See the code in 'phase_3_data_visualization/'](./phase_3_data_visualization/Day_20_Seaborn_Advanced.ipynb)
-*  **Day 21:**   . - [See the code in 'phase_beginner_capstone_project/'](./phase_beginner_capstone_project/Day_21_Titanic_Analysis.ipynb.ipynb)
+*  **Day 20:**  Advanced Seaborn, Analogies & Styling with KDE , Heatmap and Contexts . - [See the code in 'phase_3_data_visualization/'](./phase_3_data_visualization/Day_20_Seaborn_Advanced.ipynb)
+*  **Day 21:** Beginner Phase - Capstone Project  Missing value counts and percentages calculated . - [See the code in 'phase_beginner_capstone_project/'](./phase_beginner_capstone_project/Day_21_Titanic_Analysis.ipynb.ipynb)
