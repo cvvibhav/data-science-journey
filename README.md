@@ -35,3 +35,5 @@ My personal journey : Data Science
 * **Conclusion:** The strongest predictors of survival were **Female** and **1st Class**. The "Women and Children First" protocol was clearly followed, but money also played a major role.
 
 * **Week 3: The Capstone & Visualization:** Mastered Data Visualization with Seaborn (Heatmaps, KDE, Boxplots). Completed the **Phase 1 Capstone (Titanic)**: performed full data cleaning (imputation) and EDA to identify survival drivers. **PHASE 1 COMPLETE.** (Days 15-23)
+
+*  **Day 24:**  Introduction to Machine Learning (linear regression). - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_24_ML_Hello_World.ipynb)
