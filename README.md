@@ -38,3 +38,4 @@ My personal journey : Data Science
 
 *  **Day 24:**  Introduction to Machine Learning (linear regression). - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_24_ML_Hello_World.ipynb)
 *  **Day 25:** Simple Linear Regression (I learned why we split data: to stop the model from memorizing the answers. I built a salary predictor that estimates an $8,000 raise per year of experience.). - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_25_Salary_Prediction.ipynb)
+*  **Day 26:** Real life is complicated. Rarely does one thing cause another. Usually, it's a mix of many factors. Scikit-Learn makes this easy—I didn't have to change my code much to switch from 1 feature to 3 features. The logic is exactly the same: fit(X, y) -> predict(X). - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_26_Housing_Prediction.ipynb)
