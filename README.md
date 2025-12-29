@@ -45,3 +45,4 @@ My personal journey : Data Science
 *  **Day 30:** Random Forest Classifier to improve prediction accuracy by aggregating the votes of many Decision Trees. . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_30_Random_Forest.ipynb)
 *  **Day 31:** Grid Search for the RendomForest, so that we can find the tune using GridSearchCV . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_31_Grid_Search.ipynb)
 *  **Day 32:** K-Means sorting for unsupervised learning , so the machine learns on its own bout what the mess is really about . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_32_K_Means.ipynb)
+*  **Day 33**  Use of **PCA** to compress a 30-column dataset into just 2 columns so it can be visualized on a simple 2D plot - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_33_PCA.ipynb)
