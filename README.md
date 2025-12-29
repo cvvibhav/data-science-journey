@@ -44,3 +44,4 @@ My personal journey : Data Science
 *  **Day 29:** Decision Tree. This model thinks exactly like a human playing the game "20 Questions". - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_29_Decision_Tree.ipynb)
 *  **Day 30:** Random Forest Classifier to improve prediction accuracy by aggregating the votes of many Decision Trees. . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_30_Random_Forest.ipynb)
 *  **Day 31:** Grid Search for the RendomForest, so that we can find the tune using GridSearchCV . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_31_Grid_Search.ipynb)
+*  **Day 32:** K-Means sorting for unsupervised learning , so the machine learns on its own bout what the mess is really about . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_32_K_Means.ipynb)
