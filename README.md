@@ -46,3 +46,4 @@ My personal journey : Data Science
 *  **Day 31:** Grid Search for the RendomForest, so that we can find the tune using GridSearchCV . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_31_Grid_Search.ipynb)
 *  **Day 32:** K-Means sorting for unsupervised learning , so the machine learns on its own bout what the mess is really about . - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_32_K_Means.ipynb)
 *  **Day 33**  Use of **PCA** to compress a 30-column dataset into just 2 columns so it can be visualized on a simple 2D plot - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_33_PCA.ipynb)
+*  **Day 34**  Natural Language Processing).We will build a Spam Filter by teaching the computer to convert words into numbers using the "Bag of Words" method. - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_34_NLP_Basics.ipynb)
