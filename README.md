@@ -49,5 +49,4 @@ My personal journey : Data Science
 *  **Day 34**  Natural Language Processing).We will build a Spam Filter by teaching the computer to convert words into numbers using the "Bag of Words" method. - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_34_NLP_Basics.ipynb)
 *  **Day 35**  How to use TF-IDF to vectorize text, giving more weight to unique/important words and ignoring common filler words. - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_35_TFIDF.ipynb)
 *  **Day 36**  This project creates fake daily stock prices and uses a naive baseline model that predicts today’s price using yesterday’s price.  
-It then evaluates the prediction accuracy using Mean Absolute Error (MAE) and visualizes actual vs predicted prices.
- - [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_36_Time_Series_Basics.ipynb)
+It then evaluates the prediction accuracy using Mean Absolute Error (MAE) and visualizes actual vs predicted prices.- [See the code in '04_Machine_Learning/'](./04_Machine_LearningDay_36_Time_Series_Basics.ipynb)
