@@ -53,3 +53,4 @@ My personal journey : Data Science
 *  **Day 38**  Understand Time Series Decomposition (Trend + Seasonality + Residuals) and use the seasonal_decompose tool to break a dataset apart.- [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_38_Decomposition.ipynb)
 *  **Day 39**  Understand Stationarity (Constant Mean & Variance) and use Differencing (.diff()) and the ADF Test to prepare data for advanced forecasting.- [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_39_Stationarity.ipynb)
 *  **Day 40**  Understand the 3 components of ARIMA (p, d, q) & build your first official Forecasting Model using statsmodels.- [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_40_ARIMA.ipynb)
+*  **Day 41**  Use the pmdarima library to automatically discover the optimal ARIMA parameters (p, d, q) by minimizing the AIC score.- [See the code in '04_Machine_Learning/'](./04_Machine_Learning/Day_41_AutoARIMA.ipynb)
